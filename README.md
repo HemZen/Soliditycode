@@ -1,0 +1,2 @@
+# Soliditycode
+Practice codes
