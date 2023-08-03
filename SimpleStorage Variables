@@ -1,0 +1,10 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+contract SimpleStorage {
+    uint256 myFavouriteNumber = 88;
+    bool hasFavNum = true;
+    string myfavnumber = "eighty-eight";
+    int256 favonum = -88;
+    address myadd = 0xaD8d4dde4705D7A588d522820316781B93926a6f;
+    bytes32 favno = "dogs";
+}
